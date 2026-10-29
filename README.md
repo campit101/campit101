@@ -2,13 +2,18 @@
 
 Web and software developer in Aberdeen, Scotland. I build web applications that work properly, load quickly and look credible.
 
-## Featured project
+## Projects
 
-**[Polisher](https://aipolisher.app)** is a live subscription web app that rewrites a draft in the user's own voice. I built it end to end: accounts and sign-in, writing-sample handling, usage limits and monthly billing through Stripe.
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[Demo Roasters](https://github.com/campit101/demo-roasters)**<br>[Live demo](https://demo-roasters.vercel.app) | A UK coffee shop: product catalogue, plain-English search, basket, checkout, customer accounts and an admin dashboard. | Next.js, TypeScript, PostgreSQL, Stripe, Vercel |
+| **[Polisher](https://github.com/campit101/polisher)**<br>[Live demo](https://polisher-demo.vercel.app) | Rewrites an AI draft in your own voice, learned from samples of your writing. Ran as a real £5-a-month product for ten days in October 2026 before becoming a demo. | Next.js, TypeScript, Supabase, Stripe, Vercel |
+
+Both are portfolio demos: payments run in Stripe test mode and nothing is sold.
 
 ## Stack
 
-TypeScript, Next.js, Python, SQL, Supabase, Stripe, Vercel, Playwright
+TypeScript, Next.js, React, Python, SQL (PostgreSQL), Supabase, Stripe, Vercel, Playwright
 
 ## Background
 
@@ -19,4 +24,4 @@ TypeScript, Next.js, Python, SQL, Supabase, Stripe, Vercel, Playwright
 
 Freelance projects and junior developer roles in Aberdeen and remotely.
 
-[LinkedIn](https://www.linkedin.com/in/campittaway/) · [Polisher](https://aipolisher.app)
+[LinkedIn](https://www.linkedin.com/in/campittaway/)
