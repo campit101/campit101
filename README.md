@@ -17,7 +17,6 @@ TypeScript, Next.js, React, Python, SQL (PostgreSQL), Supabase, Stripe, Vercel, 
 
 ## Background
 
-- Studying Software Development (SCQF Level 6) at North East Scotland College, with HNC Computing next
 - Harvard CS50x and CS50P certificates
 
 ## Open to
