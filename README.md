@@ -17,10 +17,6 @@ Demo Barbers, Demo Roasters and Polisher are portfolio demos: payments run in St
 
 TypeScript, Next.js, React, Rust (Tauri), Python, SQL (PostgreSQL), Supabase, Stripe, Vercel, Playwright
 
-## Background
-
-- Harvard CS50x and CS50P certificates
-
 ## Open to
 
 Freelance projects and junior developer roles in Aberdeen and remotely.
